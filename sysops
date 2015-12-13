@@ -50,3 +50,4 @@ sysops 3 (devops)
   etc)
 * implement release cycle automation (github -> jenkins ->
   staging server, github -> jenkins -> production server)
+* write deployment workplans.
