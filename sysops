@@ -16,7 +16,7 @@ sysops 1 (for interns)
 * install operating systems: linux, windows, etc.
 * install software: linux, windows, etc.
 
-sysops 2
+sysops 2 (sysops)
 ---
 
 * understand complex systems (three-component systems and
@@ -33,7 +33,7 @@ sysops 2
 * manage running linux services and applications (use of 
   upstart/systemctl/docker)
 
-sysops 3
+sysops 3 (devops)
 ---
 
 * write automation scripts: bash, ruby, python, etc.
