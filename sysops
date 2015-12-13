@@ -1,0 +1,47 @@
+sysops
+===
+
+a person that operates a system. we'll grade a sysops based
+on their capabilities.
+
+sysops 1 (for interns)
+---
+
+* analyze simple systems (a standalone or a two-component
+  system).
+* operate web applications (authentication, app settings,
+  file upload, image upload, google, facebook, etc).
+* use software applications for modifying data
+  (excel/google sheets, google drive, etc).
+
+sysops 2
+---
+
+* operate a linux shell.
+* operate a software shell (python, irb, etc).
+* knows the basic networking concepts (ip, servers,
+  firewall, etc).
+* access remote servers.
+* use of standard utilities like ssh, scp, [s]ftp, tar,
+  zip, git, telnet, tail, cat, less, vi (or nano), etc.
+* install and configure linux software (apt-get, /etc/*)
+* manage running linux services and applications (use of 
+  upstart/systemctl/docker)
+
+sysops 3
+---
+
+* write automation scripts: bash, ruby, python, etc.
+* write software startup/shutdown scripts (upstart,
+  systemctl, docker, etc).
+* write configuration for linux software (
+  /etc/haproxy.conf, /etc/nginx/*, /etc/default, etc).
+* optimize and fine-tune linux software configurations.
+* write build scripts and use CI tools (like jenkins).
+* manage and maintain databases (mysqldump, mysql,
+  postgres, mongodb, etc).
+* manage and maintain cluster of servers (configure
+  autoscale, firewalls (security groups), security keys,
+  etc)
+* implement release cycle automation (github -> jenkins ->
+  staging server, github -> jenkins -> production server)
