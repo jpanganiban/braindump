@@ -7,7 +7,7 @@ on their capabilities.
 sysops 1 (for interns)
 ---
 
-* analyze simple systems (a standalone or a two-component
+* understand simple systems (a standalone or a two-component
   system).
 * operate web applications (authentication, app settings,
   file upload, image upload, google, facebook, etc).
@@ -17,6 +17,8 @@ sysops 1 (for interns)
 sysops 2
 ---
 
+* understand complex systems (three-component systems and
+  more).
 * operate a linux shell.
 * operate a software shell (python, irb, etc).
 * knows the basic networking concepts (ip, servers,
