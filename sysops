@@ -13,6 +13,8 @@ sysops 1 (for interns)
   file upload, image upload, google, facebook, etc).
 * use software applications for modifying data
   (excel/google sheets, google drive, etc).
+* install operating systems: linux, windows, etc.
+* install software: linux, windows, etc.
 
 sysops 2
 ---
@@ -25,8 +27,9 @@ sysops 2
   firewall, etc).
 * access remote servers.
 * use of standard utilities like ssh, scp, [s]ftp, tar,
-  zip, git, telnet, tail, cat, less, vi (or nano), etc.
-* install and configure linux software (apt-get, /etc/*)
+  zip, git, telnet, tail, cat, less, vi (or nano), grep,
+  etc.
+* configure linux software (/etc/*)
 * manage running linux services and applications (use of 
   upstart/systemctl/docker)
 
